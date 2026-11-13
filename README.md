@@ -1,6 +1,6 @@
 # 广告经典书库 · Advertising Classics
 
-共 29 部。仓库内可下载 7 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
+共 36 部。仓库内可下载 14 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
 
 **全部本地原书**　[按书名下载并查看版本与转载依据](books/README.md)。
 
@@ -17,6 +17,13 @@
 | 1910 | Poster Advertising | George Henry Edward Hawkins | 从海报尺寸、印刷和张贴成本读到投放验收，书中还按实例讨论配色和远距离辨认。 | [下载 EPUB](books/poster-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/71042) |
 | 1912 | The Clock That Had No Hands, and Nineteen Other Essays About Advertising | Herbert Kaufman | 二十篇短文谈零售广告。可从 How to Write Retail Advertising Copy 读起，再看作者怎样区分逗人一笑和说服购买。 | [下载 EPUB](books/clock-that-had-no-hands.epub) · [来源](https://www.gutenberg.org/ebooks/29562) |
 | 1916 | Advertising by Motion Pictures | Ernest A. Dench | 电影广告兴起之初，商店怎样用活动影像介绍商品、选择场地并吸引路人？书中列出具体行业与场景。 | [下载 EPUB](books/advertising-by-motion-pictures.epub) · [来源](https://www.gutenberg.org/ebooks/70188) |
+| 1927 | My Life in Advertising | Claude C. Hopkins | 通过个人从业经历看邮购广告、样品派发和广告测试。 | [下载 PDF](books/my-life-in-advertising-1927.pdf) · [来源](https://www.loc.gov/item/27024090/) |
+| 1917 | How to Advertise: A Guide to Designing, Laying Out, and Composing Advertisements | George French | 读版面设计、排字与广告图版如何配合，书中附完整广告实例。 | [下载 PDF](books/how-to-advertise-1917.pdf) · [来源](https://www.loc.gov/item/17006656/) |
+| 1921 | Research: A Comparison of Methods for Obtaining Information to Plan Advertising Campaigns | Agency Service Committee, American Association of Advertising Agencies | 对照当年代理商怎样访谈客户、收集市场资料，以及该如何收取调研费。属于早期行业研究原始文献。 | [下载 PDF](books/research-in-advertising-1921.pdf) · [来源](https://www.loc.gov/item/21013888/) |
+| 1920 | Making Advertisements and Making Them Pay | Roy S. Durstine | 以具体广告看作者如何寻找销售理由、写标题、选插图并衡量效果。 | [下载 PDF](books/making-advertisements-1920.pdf) · [来源](https://www.loc.gov/item/20016526/) |
+| 2012 | Advertising Campaigns: Start to Finish | 2012 Book Archive 版本，按上游要求省略原版署名 | 跟随一家广告公司为新闻网站做整场广告，涵盖比稿、受众研究、预算、制作、媒介和效果评估。 | [下载 PDF](books/advertising-campaigns-start-to-finish-v1.pdf) · [来源](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) |
+| 2023 | Introduction to Advertising: Advertising Practices | Agnieszka Chwialkowska | 从预算和媒体组合到创意策略与 ROI，适合用作按问题查阅的广告入门教材。 | [下载 ZIP](books/introduction-to-advertising-practices-2023.zip) · [来源](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) |
+| 1896 | Picture Posters | Charles Hiatt | 从法国到英美，逐幅比较早期商业招贴。书中收录劳特累克的海报草图，可对照作者对构图与用色的评论。 | [下载 PDF](books/picture-posters-1896.pdf) · [来源](https://archive.org/details/PicturePosters) |
 
 ## 从手头的问题开始
 
