@@ -2,71 +2,71 @@
 
 ## Scientific Advertising
 
-Claude C. Hopkins，1923 年英文版。美国国会图书馆将该馆藏列为公有领域，可自由使用和再利用。此处保留馆方提供的原始扫描 PDF。[馆藏及权利说明](https://www.loc.gov/item/23009362/) · [馆方原文件](https://tile.loc.gov/storage-services/public/gdc/23009362/23009362.pdf) · [仓库副本](scientific-advertising-1923.pdf)
+Claude C. Hopkins，1923 年英文版。美国国会图书馆将该馆藏列为公有领域，可自由使用和再利用。此处保留馆方提供的原始扫描 PDF。[馆藏及权利说明](https://www.loc.gov/item/23009362/) · [馆方原文件](https://tile.loc.gov/storage-services/public/gdc/23009362/23009362.pdf) · [仓库副本](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/scientific-advertising-1923.pdf)
 
 ## 圖像與商業文化：分析中國近代廣告
 
-吳詠梅、李培德編著，香港大學出版社，2014 年。文件来自 Open Books Hong Kong（开读），按 CC BY-NC-ND 4.0 非商业分享，保留原件及原有版权声明，未作修改。[开读书目与授权说明](https://openbookshongkong.com/book/) · [许可条款](https://creativecommons.org/licenses/by-nc-nd/4.0/) · [开读原文件](https://openbookshongkong.com/wp-content/uploads/2024/08/9789888208487.pdf) · [仓库副本](images-and-commercial-culture-2014.pdf)
+吳詠梅、李培德編著，香港大學出版社，2014 年。文件来自 Open Books Hong Kong（开读），按 CC BY-NC-ND 4.0 非商业分享，保留原件及原有版权声明，未作修改。[开读书目与授权说明](https://openbookshongkong.com/book/) · [许可条款](https://creativecommons.org/licenses/by-nc-nd/4.0/) · [开读原文件](https://openbookshongkong.com/wp-content/uploads/2024/08/9789888208487.pdf) · [仓库副本](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/images-and-commercial-culture-2014.pdf)
 
 ## A History of Advertising from the Earliest Times
 
-Henry Sampson，1874 年。英文图文 EPUB。含报纸版面摹本、索引及转录说明。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/54149) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](history-of-advertising.epub)
+Henry Sampson，1874 年。英文图文 EPUB。含报纸版面摹本、索引及转录说明。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/54149) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/history-of-advertising.epub)
 
 ## Quaint and Curious Advertisements
 
-Henry M. Brooks，1886 年。英文图文 EPUB。The Olden Time Series 第四卷，为此卷全本，含人名索引。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/21675) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](quaint-and-curious-advertisements.epub)
+Henry M. Brooks，1886 年。英文图文 EPUB。The Olden Time Series 第四卷，为此卷全本，含人名索引。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/21675) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/quaint-and-curious-advertisements.epub)
 
 ## Poster Advertising
 
-George Henry Edward Hawkins，1910 年。英文图文 EPUB。含广告图版、张贴费用汇总和服务名录。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/71042) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](poster-advertising.epub)
+George Henry Edward Hawkins，1910 年。英文图文 EPUB。含广告图版、张贴费用汇总和服务名录。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/71042) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/poster-advertising.epub)
 
 ## The Clock That Had No Hands, and Nineteen Other Essays About Advertising
 
-Herbert Kaufman，1912 年。英文图文 EPUB。1912 年 George H. Doran 合集，含末篇 The Omelette Soufflé。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/29562) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](clock-that-had-no-hands.epub)
+Herbert Kaufman，1912 年。英文图文 EPUB。1912 年 George H. Doran 合集，含末篇 The Omelette Soufflé。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/29562) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/clock-that-had-no-hands.epub)
 
 ## Advertising by Motion Pictures
 
-Ernest A. Dench，1916 年。英文图文 EPUB。含第 I 至 XLVIII 章与卷末许可。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/70188) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](advertising-by-motion-pictures.epub)
+Ernest A. Dench，1916 年。英文图文 EPUB。含第 I 至 XLVIII 章与卷末许可。各书馆藏页标为美国公版。原 EPUB 内保留 Project Gutenberg 的完整许可和制作署名，按其条款免费分发。 [馆藏或出版记录](https://www.gutenberg.org/ebooks/70188) · [权利说明](https://www.gutenberg.org/policy/permission.html) · [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-by-motion-pictures.epub)
 
 ## My Life in Advertising
 
-Claude C. Hopkins，1927 年。英文扫描本，218 个扫描页。PDF 第 2 页为扉页，第 3 页标注 First Edition。最后一章 Some Things Personal 结束于 PDF 第 213 页，对应印刷页 206，其后为出版社广告。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/27024090/) · [权利说明](https://www.loc.gov/item/27024090/#rights-and-access) · [下载 PDF](my-life-in-advertising-1927.pdf)
+Claude C. Hopkins，1927 年。英文扫描本，218 个扫描页。PDF 第 2 页为扉页，第 3 页标注 First Edition。最后一章 Some Things Personal 结束于 PDF 第 213 页，对应印刷页 206，其后为出版社广告。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/27024090/) · [权利说明](https://www.loc.gov/item/27024090/#rights-and-access) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/my-life-in-advertising-1927.pdf)
 
 ## How to Advertise: A Guide to Designing, Laying Out, and Composing Advertisements
 
-George French，1917 年。英文扫描本，358 个扫描页。PDF 第 9 页为 1917 年扉页，第 349 页有广告图版，第 351 页印有 In Conclusion、印刷页 279 和 THE END。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/17006656/) · [权利说明](https://www.loc.gov/item/17006656/#rights-and-access) · [下载 PDF](how-to-advertise-1917.pdf)
+George French，1917 年。英文扫描本，358 个扫描页。PDF 第 9 页为 1917 年扉页，第 349 页有广告图版，第 351 页印有 In Conclusion、印刷页 279 和 THE END。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/17006656/) · [权利说明](https://www.loc.gov/item/17006656/#rights-and-access) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/how-to-advertise-1917.pdf)
 
 ## Research: A Comparison of Methods for Obtaining Information to Plan Advertising Campaigns
 
-Agency Service Committee, American Association of Advertising Agencies，1921 年。英文扫描本，52 个扫描页。PDF 第 5 页为 1921 年 3 月报告扉页，第 9 页为目录，第 43 至 47 页含调查收费方法及末章参考书刊，止于印刷页 43。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/21013888/) · [权利说明](https://www.loc.gov/item/21013888/#rights-and-access) · [下载 PDF](research-in-advertising-1921.pdf)
+Agency Service Committee, American Association of Advertising Agencies，1921 年。英文扫描本，52 个扫描页。PDF 第 5 页为 1921 年 3 月报告扉页，第 9 页为目录，第 43 至 47 页含调查收费方法及末章参考书刊，止于印刷页 43。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/21013888/) · [权利说明](https://www.loc.gov/item/21013888/#rights-and-access) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/research-in-advertising-1921.pdf)
 
 ## Making Advertisements and Making Them Pay
 
-Roy S. Durstine，1920 年。英文扫描本，300 个扫描页。PDF 第 11 页为 Charles Scribner’s Sons 1920 年扉页，第 293 页有广告图版，第 294 页对应末章 Where Is Advertising Going? 的印刷页 264。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/20016526/) · [权利说明](https://www.loc.gov/item/20016526/#rights-and-access) · [下载 PDF](making-advertisements-1920.pdf)
+Roy S. Durstine，1920 年。英文扫描本，300 个扫描页。PDF 第 11 页为 Charles Scribner’s Sons 1920 年扉页，第 293 页有广告图版，第 294 页对应末章 Where Is Advertising Going? 的印刷页 264。美国国会图书馆（Library of Congress）在此书的 Rights & Access 栏将馆藏标为公有领域，可自由使用与再利用。 [馆藏或出版记录](https://www.loc.gov/item/20016526/) · [权利说明](https://www.loc.gov/item/20016526/#rights-and-access) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/making-advertisements-1920.pdf)
 
 ## Advertising Campaigns: Start to Finish
 
-2012 Book Archive 版本，按上游要求省略原版署名，2012 年。英文开放教材。512 页，卷首有完整目录，第 1–14 章，末页第 14.4 节练习，印刷页码 507。存档版版权页明示允许署名、非商业、相同方式共享，原出版方要求该版本移除原书作者、出版社、原书名和原网址的惯例署名。保留原 PDF 和本版书名，图版保留随书署名，仅整书原样再分发。 CC BY-NC-SA 3.0。 [馆藏或出版记录](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) · [权利说明](https://creativecommons.org/licenses/by-nc-sa/3.0/) · [下载 PDF](advertising-campaigns-start-to-finish-v1.pdf)
+2012 Book Archive 版本，按上游要求省略原版署名，2012 年。英文开放教材。512 页，卷首有完整目录，第 1–14 章，末页第 14.4 节练习，印刷页码 507。存档版版权页明示允许署名、非商业、相同方式共享，原出版方要求该版本移除原书作者、出版社、原书名和原网址的惯例署名。保留原 PDF 和本版书名，图版保留随书署名，仅整书原样再分发。 CC BY-NC-SA 3.0。 [馆藏或出版记录](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) · [权利说明](https://creativecommons.org/licenses/by-nc-sa/3.0/) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-campaigns-start-to-finish-v1.pdf)
 
 ## Introduction to Advertising: Advertising Practices
 
-Agnieszka Chwialkowska，2023 年。英文开放教材。出版社完整下载包，7 份可打开的 DOCX，逐一对应原包 manifest.yml 第 1 至 7 章，末章 ROI and Measures，非课件包。University System of Georgia 在本书页对整部教材声明 CC BY-NC-SA 4.0，提供原版 ZIP。保留教材内对广告图例、截图的来源标注，教材的许可不单独授予第三方素材权利。 CC BY-NC-SA 4.0。 [馆藏或出版记录](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) · [权利说明](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [下载 ZIP](introduction-to-advertising-practices-2023.zip)
+Agnieszka Chwialkowska，2023 年。英文开放教材。出版社完整下载包，7 份可打开的 DOCX，逐一对应原包 manifest.yml 第 1 至 7 章，末章 ROI and Measures，非课件包。University System of Georgia 在本书页对整部教材声明 CC BY-NC-SA 4.0，提供原版 ZIP。保留教材内对广告图例、截图的来源标注，教材的许可不单独授予第三方素材权利。 CC BY-NC-SA 4.0。 [馆藏或出版记录](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) · [权利说明](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [下载 ZIP](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/introduction-to-advertising-practices-2023.zip)
 
 ## Picture Posters
 
-Charles Hiatt，1896 年。英文插图扫描本，392 个扫描页，含书名页、第二版标识及卷末 Chiswick Press 印记。1896 年英文第 2 版。Internet Archive 的本件元数据标注 CC0，同源扫描在 Wikimedia Commons 标为美国公版。 [馆藏或出版记录](https://archive.org/details/PicturePosters) · [权利说明](https://archive.org/metadata/PicturePosters) · [下载 PDF](picture-posters-1896.pdf)
+Charles Hiatt，1896 年。英文插图扫描本，392 个扫描页，含书名页、第二版标识及卷末 Chiswick Press 印记。1896 年英文第 2 版。Internet Archive 的本件元数据标注 CC0，同源扫描在 Wikimedia Commons 标为美国公版。 [馆藏或出版记录](https://archive.org/details/PicturePosters) · [权利说明](https://archive.org/metadata/PicturePosters) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/picture-posters-1896.pdf)
 
 ## Advertising Methods in Japan, China, and the Philippines
 
-J. W. Sanger（美国商务部贸易专员），1921 年。英文政府印行本，124 张扫描页，末张为附录印刷页 107。美国政府公务作品。美国商务部贸易专员 J. W. Sanger 的官方报告，由 Government Printing Office 于 1921 年出版。书内当年已公开印行的广告图片亦已过美国出版物保护期。 [馆藏或出版记录](https://madspace.org/Prints/?ID=6) · [权利说明](https://uscode.house.gov/us/usc/t17/s105/) · [下载 PDF](advertising-methods-in-japan-china-and-the-philippines-1921.pdf)
+J. W. Sanger（美国商务部贸易专员），1921 年。英文政府印行本，124 张扫描页，末张为附录印刷页 107。美国政府公务作品。美国商务部贸易专员 J. W. Sanger 的官方报告，由 Government Printing Office 于 1921 年出版。书内当年已公开印行的广告图片亦已过美国出版物保护期。 [馆藏或出版记录](https://madspace.org/Prints/?ID=6) · [权利说明](https://uscode.house.gov/us/usc/t17/s105/) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-methods-in-japan-china-and-the-philippines-1921.pdf)
 
 ## The Psychology of Advertising
 
-Walter Dill Scott，1917 年。英文增补版，扉页署 1917 年，298 个扫描页，卷末索引至印刷页 280。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/psychologyofadve00scotrich) · [权利说明](https://archive.org/metadata/psychologyofadve00scotrich) · [下载 PDF](psychology-of-advertising-1917.pdf)
+Walter Dill Scott，1917 年。英文增补版，扉页署 1917 年，298 个扫描页，卷末索引至印刷页 280。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/psychologyofadve00scotrich) · [权利说明](https://archive.org/metadata/psychologyofadve00scotrich) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/psychology-of-advertising-1917.pdf)
 
 ## The Principles of Advertising: A Text-Book
 
-Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons，1920 年。1920 年 Ronald Press 英文版，398 个扫描页，卷末索引至印刷页 376。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/principlesofadve00tipprich) · [权利说明](https://archive.org/metadata/principlesofadve00tipprich) · [下载 PDF](principles-of-advertising-1920.pdf)
+Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons，1920 年。1920 年 Ronald Press 英文版，398 个扫描页，卷末索引至印刷页 376。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/principlesofadve00tipprich) · [权利说明](https://archive.org/metadata/principlesofadve00tipprich) · [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/principles-of-advertising-1920.pdf)
 
 ## 文件校验
 

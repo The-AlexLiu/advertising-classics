@@ -2,31 +2,36 @@
 
 共 39 部。仓库内可下载 17 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
 
-**全部本地原书**　[按书名下载并查看版本与转载依据](books/README.md)。
+**全文下载**　[按书名下载并查看版本与转载依据](books/README.md)。
 
 **首批两本**　[《科学的广告》1923 年英文版](books/scientific-advertising-1923.pdf) · [《圖像與商業文化》2014 年繁体中文版](books/images-and-commercial-culture-2014.pdf)
 
 **在线阅读**　馆藏电子书可能需要排队，付费书页通常先显示试读。已核对平台列出的作品、版本和获取方式。受限正文须凭相应馆证、订阅或购书权限打开。核查日期为 2026 年 11 月 13 日。
 
-## 新增可下载的完整原书
+## 公版广告原著与早期行业文献
 
 | 出版年 | 书名 | 作者或编者 | 适合什么时候读 | 文件与来源 |
 | --- | --- | --- | --- | --- |
-| 1874 | A History of Advertising from the Earliest Times | Henry Sampson | 从早期招贴到报纸分类广告，可以按年代找广告原文、版面和招徕生意的说法。 | [下载 EPUB](books/history-of-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/54149) |
-| 1886 | Quaint and Curious Advertisements | Henry M. Brooks | 波士顿和塞勒姆旧报里的广告原文，适合查当时商家如何写寻物、拍卖和商品告示。 | [下载 EPUB](books/quaint-and-curious-advertisements.epub) · [来源](https://www.gutenberg.org/ebooks/21675) |
-| 1910 | Poster Advertising | George Henry Edward Hawkins | 从海报尺寸、印刷和张贴成本读到投放验收，书中还按实例讨论配色和远距离辨认。 | [下载 EPUB](books/poster-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/71042) |
-| 1912 | The Clock That Had No Hands, and Nineteen Other Essays About Advertising | Herbert Kaufman | 二十篇短文谈零售广告。可从 How to Write Retail Advertising Copy 读起，再看作者怎样区分逗人一笑和说服购买。 | [下载 EPUB](books/clock-that-had-no-hands.epub) · [来源](https://www.gutenberg.org/ebooks/29562) |
-| 1916 | Advertising by Motion Pictures | Ernest A. Dench | 电影广告兴起之初，商店怎样用活动影像介绍商品、选择场地并吸引路人？书中列出具体行业与场景。 | [下载 EPUB](books/advertising-by-motion-pictures.epub) · [来源](https://www.gutenberg.org/ebooks/70188) |
-| 1927 | My Life in Advertising | Claude C. Hopkins | 通过个人从业经历看邮购广告、样品派发和广告测试。 | [下载 PDF](books/my-life-in-advertising-1927.pdf) · [来源](https://www.loc.gov/item/27024090/) |
-| 1917 | How to Advertise: A Guide to Designing, Laying Out, and Composing Advertisements | George French | 读版面设计、排字与广告图版如何配合，书中附完整广告实例。 | [下载 PDF](books/how-to-advertise-1917.pdf) · [来源](https://www.loc.gov/item/17006656/) |
-| 1921 | Research: A Comparison of Methods for Obtaining Information to Plan Advertising Campaigns | Agency Service Committee, American Association of Advertising Agencies | 对照当年代理商怎样访谈客户、收集市场资料，以及该如何收取调研费。属于早期行业研究原始文献。 | [下载 PDF](books/research-in-advertising-1921.pdf) · [来源](https://www.loc.gov/item/21013888/) |
-| 1920 | Making Advertisements and Making Them Pay | Roy S. Durstine | 以具体广告看作者如何寻找销售理由、写标题、选插图并衡量效果。 | [下载 PDF](books/making-advertisements-1920.pdf) · [来源](https://www.loc.gov/item/20016526/) |
-| 2012 | Advertising Campaigns: Start to Finish | 2012 Book Archive 版本，按上游要求省略原版署名 | 跟随一家广告公司为新闻网站做整场广告，涵盖比稿、受众研究、预算、制作、媒介和效果评估。 | [下载 PDF](books/advertising-campaigns-start-to-finish-v1.pdf) · [来源](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) |
-| 2023 | Introduction to Advertising: Advertising Practices | Agnieszka Chwialkowska | 从预算和媒体组合到创意策略与 ROI，适合用作按问题查阅的广告入门教材。 | [下载 ZIP](books/introduction-to-advertising-practices-2023.zip) · [来源](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) |
-| 1896 | Picture Posters | Charles Hiatt | 从法国到英美，逐幅比较早期商业招贴。书中收录劳特累克的海报草图，可对照作者对构图与用色的评论。 | [下载 PDF](books/picture-posters-1896.pdf) · [来源](https://archive.org/details/PicturePosters) |
-| 1921 | Advertising Methods in Japan, China, and the Philippines | J. W. Sanger（美国商务部贸易专员） | 可从印刷页 44 的中国部分入手，查当时中文报纸的广告计价、商标、月份牌和户外广告。日本及菲律宾各自有独立章节。 | [下载 PDF](books/advertising-methods-in-japan-china-and-the-philippines-1921.pdf) · [来源](https://madspace.org/Prints/?ID=6) |
-| 1917 | The Psychology of Advertising | Walter Dill Scott | 书中把注意、记忆和阅读习惯放到当时的报纸广告里研究，还比较大版面与小版面的注意效果。 | [下载 PDF](books/psychology-of-advertising-1917.pdf) · [来源](https://archive.org/details/psychologyofadve00scotrich) |
-| 1920 | The Principles of Advertising: A Text-Book | Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons | 同一本教材从消费者心理讲到文案、字体和陈列，可以对照四位作者如何分析一则广告。 | [下载 PDF](books/principles-of-advertising-1920.pdf) · [来源](https://archive.org/details/principlesofadve00tipprich) |
+| 1874 | A History of Advertising from the Earliest Times | Henry Sampson | 从早期招贴到报纸分类广告，可以按年代找广告原文、版面和招徕生意的说法。 | [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/history-of-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/54149) |
+| 1886 | Quaint and Curious Advertisements | Henry M. Brooks | 波士顿和塞勒姆旧报里的广告原文，适合查当时商家如何写寻物、拍卖和商品告示。 | [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/quaint-and-curious-advertisements.epub) · [来源](https://www.gutenberg.org/ebooks/21675) |
+| 1896 | Picture Posters | Charles Hiatt | 从法国到英美，逐幅比较早期商业招贴。书中收录劳特累克的海报草图，可对照作者对构图与用色的评论。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/picture-posters-1896.pdf) · [来源](https://archive.org/details/PicturePosters) |
+| 1910 | Poster Advertising | George Henry Edward Hawkins | 从海报尺寸、印刷和张贴成本读到投放验收，书中还按实例讨论配色和远距离辨认。 | [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/poster-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/71042) |
+| 1912 | The Clock That Had No Hands, and Nineteen Other Essays About Advertising | Herbert Kaufman | 二十篇短文谈零售广告。可从 How to Write Retail Advertising Copy 读起，再看作者怎样区分逗人一笑和说服购买。 | [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/clock-that-had-no-hands.epub) · [来源](https://www.gutenberg.org/ebooks/29562) |
+| 1916 | Advertising by Motion Pictures | Ernest A. Dench | 电影广告兴起之初，商店怎样用活动影像介绍商品、选择场地并吸引路人？书中列出具体行业与场景。 | [下载 EPUB](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-by-motion-pictures.epub) · [来源](https://www.gutenberg.org/ebooks/70188) |
+| 1917 | How to Advertise: A Guide to Designing, Laying Out, and Composing Advertisements | George French | 读版面设计、排字与广告图版如何配合，书中附完整广告实例。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/how-to-advertise-1917.pdf) · [来源](https://www.loc.gov/item/17006656/) |
+| 1917 | The Psychology of Advertising | Walter Dill Scott | 书中把注意、记忆和阅读习惯放到当时的报纸广告里研究，还比较大版面与小版面的注意效果。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/psychology-of-advertising-1917.pdf) · [来源](https://archive.org/details/psychologyofadve00scotrich) |
+| 1920 | Making Advertisements and Making Them Pay | Roy S. Durstine | 以具体广告看作者如何寻找销售理由、写标题、选插图并衡量效果。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/making-advertisements-1920.pdf) · [来源](https://www.loc.gov/item/20016526/) |
+| 1920 | The Principles of Advertising: A Text-Book | Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons | 同一本教材从消费者心理讲到文案、字体和陈列，可以对照四位作者如何分析一则广告。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/principles-of-advertising-1920.pdf) · [来源](https://archive.org/details/principlesofadve00tipprich) |
+| 1921 | Research: A Comparison of Methods for Obtaining Information to Plan Advertising Campaigns | Agency Service Committee, American Association of Advertising Agencies | 对照当年代理商怎样访谈客户、收集市场资料，以及该如何收取调研费。属于早期行业研究原始文献。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/research-in-advertising-1921.pdf) · [来源](https://www.loc.gov/item/21013888/) |
+| 1921 | Advertising Methods in Japan, China, and the Philippines | J. W. Sanger（美国商务部贸易专员） | 可从印刷页 44 的中国部分入手，查当时中文报纸的广告计价、商标、月份牌和户外广告。日本及菲律宾各自有独立章节。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-methods-in-japan-china-and-the-philippines-1921.pdf) · [来源](https://madspace.org/Prints/?ID=6) |
+| 1927 | My Life in Advertising | Claude C. Hopkins | 通过个人从业经历看邮购广告、样品派发和广告测试。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/my-life-in-advertising-1927.pdf) · [来源](https://www.loc.gov/item/27024090/) |
+
+## 开放广告教材
+
+| 出版年 | 书名 | 作者或编者 | 适合什么时候读 | 文件与来源 |
+| --- | --- | --- | --- | --- |
+| 2012 | Advertising Campaigns: Start to Finish | 2012 Book Archive 版本，按上游要求省略原版署名 | 跟随一家广告公司为新闻网站做整场广告，涵盖比稿、受众研究、预算、制作、媒介和效果评估。 | [下载 PDF](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/advertising-campaigns-start-to-finish-v1.pdf) · [来源](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) |
+| 2023 | Introduction to Advertising: Advertising Practices | Agnieszka Chwialkowska | 从预算和媒体组合到创意策略与 ROI，适合用作按问题查阅的广告入门教材。 | [下载 ZIP](https://raw.githubusercontent.com/The-AlexLiu/advertising-classics/main/books/introduction-to-advertising-practices-2023.zip) · [来源](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) |
 
 ## 从手头的问题开始
 
