@@ -1,6 +1,6 @@
 # 广告经典书库 · Advertising Classics
 
-共 37 部。仓库内可下载 15 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
+共 39 部。仓库内可下载 17 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
 
 **全部本地原书**　[按书名下载并查看版本与转载依据](books/README.md)。
 
@@ -25,6 +25,8 @@
 | 2023 | Introduction to Advertising: Advertising Practices | Agnieszka Chwialkowska | 从预算和媒体组合到创意策略与 ROI，适合用作按问题查阅的广告入门教材。 | [下载 ZIP](books/introduction-to-advertising-practices-2023.zip) · [来源](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) |
 | 1896 | Picture Posters | Charles Hiatt | 从法国到英美，逐幅比较早期商业招贴。书中收录劳特累克的海报草图，可对照作者对构图与用色的评论。 | [下载 PDF](books/picture-posters-1896.pdf) · [来源](https://archive.org/details/PicturePosters) |
 | 1921 | Advertising Methods in Japan, China, and the Philippines | J. W. Sanger（美国商务部贸易专员） | 可从印刷页 44 的中国部分入手，查当时中文报纸的广告计价、商标、月份牌和户外广告。日本及菲律宾各自有独立章节。 | [下载 PDF](books/advertising-methods-in-japan-china-and-the-philippines-1921.pdf) · [来源](https://madspace.org/Prints/?ID=6) |
+| 1917 | The Psychology of Advertising | Walter Dill Scott | 书中把注意、记忆和阅读习惯放到当时的报纸广告里研究，还比较大版面与小版面的注意效果。 | [下载 PDF](books/psychology-of-advertising-1917.pdf) · [来源](https://archive.org/details/psychologyofadve00scotrich) |
+| 1920 | The Principles of Advertising: A Text-Book | Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons | 同一本教材从消费者心理讲到文案、字体和陈列，可以对照四位作者如何分析一则广告。 | [下载 PDF](books/principles-of-advertising-1920.pdf) · [来源](https://archive.org/details/principlesofadve00tipprich) |
 
 ## 从手头的问题开始
 

@@ -60,6 +60,14 @@ Charles Hiatt，1896 年。英文插图扫描本，392 个扫描页，含书名�
 
 J. W. Sanger（美国商务部贸易专员），1921 年。英文政府印行本，124 张扫描页，末张为附录印刷页 107。美国政府公务作品。美国商务部贸易专员 J. W. Sanger 的官方报告，由 Government Printing Office 于 1921 年出版。书内当年已公开印行的广告图片亦已过美国出版物保护期。 [馆藏或出版记录](https://madspace.org/Prints/?ID=6) · [权利说明](https://uscode.house.gov/us/usc/t17/s105/) · [下载 PDF](advertising-methods-in-japan-china-and-the-philippines-1921.pdf)
 
+## The Psychology of Advertising
+
+Walter Dill Scott，1917 年。英文增补版，扉页署 1917 年，298 个扫描页，卷末索引至印刷页 280。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/psychologyofadve00scotrich) · [权利说明](https://archive.org/metadata/psychologyofadve00scotrich) · [下载 PDF](psychology-of-advertising-1917.pdf)
+
+## The Principles of Advertising: A Text-Book
+
+Harry Tipper、Harry L. Hollingworth、George Burton Hotchkiss、Frank Alvah Parsons，1920 年。1920 年 Ronald Press 英文版，398 个扫描页，卷末索引至印刷页 376。原版在美国出版于 1931 年以前，馆藏元数据将版权状态标为 NOT_IN_COPYRIGHT。 [馆藏或出版记录](https://archive.org/details/principlesofadve00tipprich) · [权利说明](https://archive.org/metadata/principlesofadve00tipprich) · [下载 PDF](principles-of-advertising-1920.pdf)
+
 ## 文件校验
 
 | 文件 | SHA-256 |
@@ -79,3 +87,5 @@ J. W. Sanger（美国商务部贸易专员），1921 年。英文政府印行本
 | introduction-to-advertising-practices-2023.zip | `f2c862de18067a26b6710b742f2901c0b60473d922154349a972b88424f731cb` |
 | picture-posters-1896.pdf | `7128806e46e43caabf5d9ba27cb27750c16326daf18e2afaf7580a2c34cc723d` |
 | advertising-methods-in-japan-china-and-the-philippines-1921.pdf | `592730afc2b732fa2aee3a2d10a9417f2534f4b990a9894aaddfd6868ba63cc1` |
+| psychology-of-advertising-1917.pdf | `f602c8537c29d9b4690fba19949bf4d4e3bac702b140c85f35a2f0dffaf4b9f2` |
+| principles-of-advertising-1920.pdf | `34e467ee9b528220feeca88a328590e0b8f58d4b1b14b8e7dc946145f054da31` |
