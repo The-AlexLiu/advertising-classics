@@ -1,10 +1,22 @@
 # 广告经典书库 · Advertising Classics
 
-24 本广告经典。仓库保存了 2 本可再分发的原书 PDF，另有 22 本可通过出版社、电子书平台或图书馆获取全本。每条注明语言、版本和访问条件。同一作品的译本和再版合计一部。
+共 29 部。仓库内可下载 7 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
 
-**直接下载**　[《科学的广告》1923 年英文版](books/scientific-advertising-1923.pdf) · [《圖像與商業文化》2014 年繁体中文版](books/images-and-commercial-culture-2014.pdf)
+**全部本地原书**　[按书名下载并查看版本与转载依据](books/README.md)。
+
+**首批两本**　[《科学的广告》1923 年英文版](books/scientific-advertising-1923.pdf) · [《圖像與商業文化》2014 年繁体中文版](books/images-and-commercial-culture-2014.pdf)
 
 **在线阅读**　馆藏电子书可能需要排队，付费书页通常先显示试读。已核对平台列出的作品、版本和获取方式。受限正文须凭相应馆证、订阅或购书权限打开。核查日期为 2026 年 11 月 13 日。
+
+## 新增可下载的完整原书
+
+| 出版年 | 书名 | 作者或编者 | 适合什么时候读 | 文件与来源 |
+| --- | --- | --- | --- | --- |
+| 1874 | A History of Advertising from the Earliest Times | Henry Sampson | 从早期招贴到报纸分类广告，可以按年代找广告原文、版面和招徕生意的说法。 | [下载 EPUB](books/history-of-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/54149) |
+| 1886 | Quaint and Curious Advertisements | Henry M. Brooks | 波士顿和塞勒姆旧报里的广告原文，适合查当时商家如何写寻物、拍卖和商品告示。 | [下载 EPUB](books/quaint-and-curious-advertisements.epub) · [来源](https://www.gutenberg.org/ebooks/21675) |
+| 1910 | Poster Advertising | George Henry Edward Hawkins | 从海报尺寸、印刷和张贴成本读到投放验收，书中还按实例讨论配色和远距离辨认。 | [下载 EPUB](books/poster-advertising.epub) · [来源](https://www.gutenberg.org/ebooks/71042) |
+| 1912 | The Clock That Had No Hands, and Nineteen Other Essays About Advertising | Herbert Kaufman | 二十篇短文谈零售广告。可从 How to Write Retail Advertising Copy 读起，再看作者怎样区分逗人一笑和说服购买。 | [下载 EPUB](books/clock-that-had-no-hands.epub) · [来源](https://www.gutenberg.org/ebooks/29562) |
+| 1916 | Advertising by Motion Pictures | Ernest A. Dench | 电影广告兴起之初，商店怎样用活动影像介绍商品、选择场地并吸引路人？书中列出具体行业与场景。 | [下载 EPUB](books/advertising-by-motion-pictures.epub) · [来源](https://www.gutenberg.org/ebooks/70188) |
 
 ## 从手头的问题开始
 
@@ -73,4 +85,4 @@
 
 首版保留六类问题，每类四本。广告实务专著、经典教材和有独立书目的研究专著均可收录。品牌、心理学与实验方法书，须能说明它帮助读者做哪项广告决策。后续补书优先填尚未覆盖的主题，例如广播广告、日文广告文案或户外广告设计。推荐时请附书名、作者、能核验的版本链接，以及它补上了哪一块。
 
-两份 PDF 的出处、版本和使用条件见[原书来源说明](books/README.md)。
+各份原书的出处、版本和使用条件见[原书来源说明](books/README.md)。
