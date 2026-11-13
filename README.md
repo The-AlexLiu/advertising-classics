@@ -1,6 +1,6 @@
 # 广告经典书库 · Advertising Classics
 
-共 36 部。仓库内可下载 14 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
+共 37 部。仓库内可下载 15 部完整原书，其余 22 部在出版社、电子书平台或图书馆设有全本入口。译本和再版按同一部作品计数。
 
 **全部本地原书**　[按书名下载并查看版本与转载依据](books/README.md)。
 
@@ -24,6 +24,7 @@
 | 2012 | Advertising Campaigns: Start to Finish | 2012 Book Archive 版本，按上游要求省略原版署名 | 跟随一家广告公司为新闻网站做整场广告，涵盖比稿、受众研究、预算、制作、媒介和效果评估。 | [下载 PDF](books/advertising-campaigns-start-to-finish-v1.pdf) · [来源](https://2012books.lardbucket.org/books/advertising-campaigns-start-to-finish/) |
 | 2023 | Introduction to Advertising: Advertising Practices | Agnieszka Chwialkowska | 从预算和媒体组合到创意策略与 ROI，适合用作按问题查阅的广告入门教材。 | [下载 ZIP](books/introduction-to-advertising-practices-2023.zip) · [来源](https://alg.manifoldapp.org/projects/introduction-to-advertising-practices) |
 | 1896 | Picture Posters | Charles Hiatt | 从法国到英美，逐幅比较早期商业招贴。书中收录劳特累克的海报草图，可对照作者对构图与用色的评论。 | [下载 PDF](books/picture-posters-1896.pdf) · [来源](https://archive.org/details/PicturePosters) |
+| 1921 | Advertising Methods in Japan, China, and the Philippines | J. W. Sanger（美国商务部贸易专员） | 可从印刷页 44 的中国部分入手，查当时中文报纸的广告计价、商标、月份牌和户外广告。日本及菲律宾各自有独立章节。 | [下载 PDF](books/advertising-methods-in-japan-china-and-the-philippines-1921.pdf) · [来源](https://madspace.org/Prints/?ID=6) |
 
 ## 从手头的问题开始
 

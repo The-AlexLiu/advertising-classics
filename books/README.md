@@ -56,6 +56,10 @@ Agnieszka Chwialkowska，2023 年。英文开放教材。出版社完整下载�
 
 Charles Hiatt，1896 年。英文插图扫描本，392 个扫描页，含书名页、第二版标识及卷末 Chiswick Press 印记。1896 年英文第 2 版。Internet Archive 的本件元数据标注 CC0，同源扫描在 Wikimedia Commons 标为美国公版。 [馆藏或出版记录](https://archive.org/details/PicturePosters) · [权利说明](https://archive.org/metadata/PicturePosters) · [下载 PDF](picture-posters-1896.pdf)
 
+## Advertising Methods in Japan, China, and the Philippines
+
+J. W. Sanger（美国商务部贸易专员），1921 年。英文政府印行本，124 张扫描页，末张为附录印刷页 107。美国政府公务作品。美国商务部贸易专员 J. W. Sanger 的官方报告，由 Government Printing Office 于 1921 年出版。书内当年已公开印行的广告图片亦已过美国出版物保护期。 [馆藏或出版记录](https://madspace.org/Prints/?ID=6) · [权利说明](https://uscode.house.gov/us/usc/t17/s105/) · [下载 PDF](advertising-methods-in-japan-china-and-the-philippines-1921.pdf)
+
 ## 文件校验
 
 | 文件 | SHA-256 |
@@ -74,3 +78,4 @@ Charles Hiatt，1896 年。英文插图扫描本，392 个扫描页，含书名�
 | advertising-campaigns-start-to-finish-v1.pdf | `6d6133d70e6aa21369ecceb35c78844ee9035b6ea5ac160762404d271b3535de` |
 | introduction-to-advertising-practices-2023.zip | `f2c862de18067a26b6710b742f2901c0b60473d922154349a972b88424f731cb` |
 | picture-posters-1896.pdf | `7128806e46e43caabf5d9ba27cb27750c16326daf18e2afaf7580a2c34cc723d` |
+| advertising-methods-in-japan-china-and-the-philippines-1921.pdf | `592730afc2b732fa2aee3a2d10a9417f2534f4b990a9894aaddfd6868ba63cc1` |
